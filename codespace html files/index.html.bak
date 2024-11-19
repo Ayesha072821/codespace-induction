@@ -13,19 +13,23 @@
 </head>
 <body>
 
-<h1> Hello ,World</h1>
-
 <div class="container">
 
 <div class="row">
 
-<div class="col-md-6">
+<div class="col-md-10">
 
-this this first column of first row
+<h1>Blog Post Title</h1>
+</br>
+<p> Posted on November 18,2024</p>
+<img src="duck.jpg" alt="..."></img>
 </div>
 
-<div class="col-md-6">
-
+<div class="col-md-2">
+<h2>Recent Post</h2>
+<a href="www.google.com"> Post 1</a>
+<a href="www.google.com"> Post 2</a>
+<a href="www.google.com"> Post 3</a>
 
 </div>
 
